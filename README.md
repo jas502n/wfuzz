@@ -9,6 +9,8 @@
 
 # Wfuzz - The Web Fuzzer
 
+`pip install pycurl`
+
 Wfuzz has been created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
 A payload in Wfuzz is a source of data.
